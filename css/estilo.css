@@ -1,0 +1,55 @@
+*
+{margin: 0px;}
+.lv1
+{
+    background-color: blue;
+    padding: 500px;
+    border-radius: 100px;
+
+
+
+}
+.lv2
+{
+    background-color: chocolate;
+    padding:  100px;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+
+}
+.lv3
+{
+    background-color: yellow;
+    padding:  100px;
+    border-radius: 100px;
+    height: 100px;
+}
+.lv4
+{
+    background-color: green;
+    padding: 100px;
+    border-radius: 100px;
+    height: 100px;
+}
+.lv5
+{
+    background-color: chocolate;
+    padding: 100px;
+    border-radius: 100px;
+    height: 100px;
+}
+.lv6
+{
+    background-color: lightslategray;
+    padding:  100px;
+    border-radius: 100px;
+    height: 100px;
+}
+.lv7
+{
+    background-color: blanchedalmond;
+    padding: 100px;
+    border-radius: 100px;
+    height: 100px;
+}
